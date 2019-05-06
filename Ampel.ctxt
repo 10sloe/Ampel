@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Ampel
+comment0.text=\r\n\ Mit\ dieser\ Fernbedienung\ kann\ man\ eine\ echte\ Hue-Lampe\ steuern\ oder\ \r\n\ eine\ simulierte\ Hue-Lampe\r\n
+comment1.params=
+comment1.target=Ampel()
+comment2.params=event
+comment2.target=void\ rotGedrueckt(javafx.event.ActionEvent)
+comment2.text=\r\n\ Diese\ Methode\ wird\ aufgerufen,\ wenn\ der\ rot-Button\ gedr\u00FCckt\ wurde\r\n
+comment3.params=event
+comment3.target=void\ gruenGedrueckt(javafx.event.ActionEvent)
+comment3.text=\r\n\ Diese\ Methode\ wird\ aufgerufen,\ wenn\ der\ rot-Button\ gedr\u00FCckt\ wurde\r\n
+comment4.params=event
+comment4.target=void\ weiterGedrueckt(javafx.event.ActionEvent)
+comment4.text=\r\n\ Diese\ Methode\ wird\ aufgerufen,\ wenn\ der\ rot-Button\ gedr\u00FCckt\ wurde\r\n
+comment5.params=event
+comment5.target=void\ ausGedrueckt(javafx.event.ActionEvent)
+comment5.text=\r\n\ Diese\ Methode\ wird\ aufgerufen,\ wenn\ der\ aus-Button\ gedr\u00FCckt\ wurde\r\n
+comment6.params=event
+comment6.target=void\ minus(javafx.event.ActionEvent)
+comment6.text=\r\n\ Diese\ Methode\ wird\ aufgerufen,\ wenn\ der\ minus-Button\ gedr\u00FCckt\ wurde\r\n
+comment7.params=event
+comment7.target=void\ plus(javafx.event.ActionEvent)
+comment7.text=\r\n\ Diese\ Methode\ wird\ aufgerufen,\ wenn\ der\ plus-Button\ gedr\u00FCckt\ wurde\r\n
+comment8.params=
+comment8.target=void\ initialize()
+comment8.text=\r\n\ Diese\ Methode\ wird\ aufgerufen,\ wenn\ die\ Oberfl\u00E4che\ erstellt\ worden\ ist\r\n
+numComments=9
